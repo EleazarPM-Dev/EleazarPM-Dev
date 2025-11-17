@@ -3,7 +3,7 @@ I am an almost graduated engineer and I love programming.
 
 **I am open to**:
 
-- Work remote
+- Work 
 - Any collaboration work
 - continue learning about mobile application development
 ## Skills:
